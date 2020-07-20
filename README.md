@@ -4,6 +4,15 @@
 
 👨🏻‍💻 I'm hedeqiang - a PHP developer
 
+
+## Hello World!! 🤔
+- 💬 Ask me about anything an everything.
+- 📫 Read my blogs: [LaravelCode](https://laravelcode.cn)
+- ⚡ My web: [hedeqaing](https://geekfl.com)
+
+![hedeqiang's github stats](https://github-readme-stats.vercel.app/api?username=hedeqiang&hide=[%22issues%22]&show_icons=true)
+
+
 <!--
 **hedeqiang/hedeqiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
