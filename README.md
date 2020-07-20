@@ -5,7 +5,6 @@
 👨🏻‍💻 I'm hedeqiang - a PHP developer
 
 
-## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [LaravelCode](https://laravelcode.cn)
 - ⚡ My web: [hedeqaing](https://geekfl.com)
