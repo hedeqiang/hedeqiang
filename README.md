@@ -11,9 +11,9 @@
 
 <a href="https://github.com/hedeqiang">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hedeqiang&repo=anuraghazra.github.io&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hedeqiang&hide=[%22issues%22]&show_icons=true" />
 </a>
-
+![hedeqiang's github stats](https://github-readme-stats.vercel.app/api?username=hedeqiang&hide=[%22issues%22]&show_icons=true)
 
 <!--
 **hedeqiang/hedeqiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
