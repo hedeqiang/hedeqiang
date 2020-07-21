@@ -9,7 +9,10 @@
 - 📫 Read my blogs: [LaravelCode](https://laravelcode.cn)
 - ⚡ My web: [hedeqaing](https://geekfl.com)
 
-![hedeqiang's github stats](https://github-readme-stats.vercel.app/api?username=hedeqiang&hide=[%22issues%22]&show_icons=true)
+<a href="https://github.com/hedeqiang">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hedeqiang&repo=anuraghazra.github.io&theme=radical" />
+</a>
 
 
 <!--
