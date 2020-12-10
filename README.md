@@ -13,6 +13,7 @@
 - 📫 Read my blogs: [LaravelCode](https://laravelcode.cn)
 - ⚡ My web: [hedeqaing](https://geekfl.com)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hedeqiang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **hedeqiang/hedeqiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
