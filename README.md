@@ -7,7 +7,7 @@
 
 🎉 Welcome to my GitHub profile!
 
-👨🏻‍💻 I'm hedeqiang - a PHP developer
+👨🏻‍💻 I'm hedeqiang - a PHP、Go developer
 
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [LaravelCode](https://laravelcode.cn)
